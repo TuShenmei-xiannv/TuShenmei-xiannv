@@ -1,16 +1,37 @@
-## Hi there 👋
+# About Me
 
-<!--
-**TuShenmei-xiannv/TuShenmei-xiannv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## The Basics
+- **Name**: [ShenmeiTu]  
+- **Job Title**: Toolsmith (a fancy way of saying I build tools for the internet)  
+- **Background**: A humanities major who somehow ended up in tech. Yes, I passed the TEM-8 (that's the English Major Band 8 exam, for the uninitiated).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Adventures
+- **Tool Website Creator**  
+  Currently building tool websites that may or may not save the world (or at least save you a few clicks). Here are some of my creations:  
+  - [image2pixel] : https://image2pixel.online/    Create stunning pixel art from any image instantly. Perfect for retro gaming aesthetics, digital art, and creative projects.  
+
+- **Former Developer**  
+  Once wrote code that probably worked 80% of the time. The other 20%? Let's call it "creative debugging."  
+
+- **Ex-Tester**  
+  Spent a good chunk of my life breaking things so you don’t have to. You’re welcome.  
+
+---
+
+## Education
+- **Major**: Humanities (because why not?)  
+- **English Skills**: Passed TEM-8. I can read Shakespeare, but I still can’t understand why tech documentation is so confusing.  
+
+---
+
+## Skills (or Things I Pretend to Know)
+- **Programming Languages**: [e.g., Python, JavaScript, etc.]  
+- **Tools of the Trade**: Git (commit messages like "fixed stuff" count, right?), VS Code, and a lot of caffeine.  
+- **Testing Tools**: Selenium, JUnit, and my personal favorite: "Does it work? Yes? Ship it!"  
+- **Other Talents**: Fluent in English, sarcasm, and overthinking.  
+
+---
+
+**Disclaimer**: I’m a work in progress, just like my code. 😄
