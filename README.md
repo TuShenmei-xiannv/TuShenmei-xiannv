@@ -10,7 +10,8 @@
 ## Career Adventures
 - **Tool Website Creator**  
   Currently building tool websites that may or may not save the world (or at least save you a few clicks). Here are some of my creations:  
-  - [image2pixel] : https://image2pixel.online/    Create stunning pixel art from any image instantly. Perfect for retro gaming aesthetics, digital art, and creative projects.  
+  - [image2pixel] : https://image2pixel.online/    
+    Create stunning pixel art from any image instantly. Perfect for retro gaming aesthetics, digital art, and creative projects.  
 
 - **Former Developer**  
   Once wrote code that probably worked 80% of the time. The other 20%? Let's call it "creative debugging."  
