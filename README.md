@@ -40,4 +40,5 @@
 ## Social media
 - Bentome: https://bento.me/shenmeitu
 - Linktree: https://linktr.ee/ShenmeiTu
-- indiepa: https://indiepa.ge/shenmeitu
+- Indiepa: https://indiepa.ge/shenmeitu
+- Twitch: https://www.twitch.tv/shenmeitu
