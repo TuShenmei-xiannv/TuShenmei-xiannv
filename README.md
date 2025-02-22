@@ -11,7 +11,7 @@
 - **Tool Website Creator**  
   Currently building tool websites that may or may not save the world (or at least save you a few clicks). Here are some of my creations:  
   - [image2pixel] : https://image2pixel.online/    
-    Create stunning pixel art from any image instantly. Perfect for retro gaming aesthetics, digital art, and creative projects.  
+    Image to Pixel Art Converter. Transform any image to pixel art instantly with Image2Pixel's free online converter. Create stunning pixel art for games, digital art, and retro-style projects. No registration needed – start converting images to pixel art today!
 
 - **Former Developer**  
   Once wrote code that probably worked 80% of the time. The other 20%? Let's call it "creative debugging."  
