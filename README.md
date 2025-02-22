@@ -16,7 +16,7 @@
 - **Former Developer**  
   Once wrote code that probably worked 80% of the time. The other 20%? Let's call it "creative debugging."  
 
-- **Ex-Tester**  
+- **Tester**  
   Spent a good chunk of my life breaking things so you don’t have to. You’re welcome.  
 
 ---
@@ -36,3 +36,6 @@
 ---
 
 **Disclaimer**: I’m a work in progress, just like my code. 😄
+
+## Social media
+Bento: https://bento.me/shenmeitu
