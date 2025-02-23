@@ -44,3 +44,4 @@
 - Twitch: https://www.twitch.tv/shenmeitu
 - Carrd: https://tushenmei.carrd.co
 - Taplink: https://taplink.cc/tushenmei
+- ShorBy: https://shor.by/OlSs
