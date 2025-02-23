@@ -43,3 +43,4 @@
 - Indiepa: https://indiepa.ge/shenmeitu
 - Twitch: https://www.twitch.tv/shenmeitu
 - Carrd: https://tushenmei.carrd.co
+- Taplink: https://taplink.cc/tushenmei
