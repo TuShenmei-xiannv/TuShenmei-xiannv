@@ -14,6 +14,10 @@
     Image to Pixel Art Converter. Transform any image to pixel art instantly with Image2Pixel's free online converter. Create stunning pixel art for games, digital art, and retro-style projects. No registration needed – start converting images to pixel art today!
   - [spellcheck game] : https://spellcheck-game.online/  
     Spellcheck Game is a free online spelling game designed to help players of all ages improve their spelling and vocabulary. With multiple levels of difficulty and daily challenges, it's perfect for kids, adults, and educators.Whether you're playing a spellcheck daily game or learning how to spellcheck Renpy games, this platform has it all.
+  - [csv2pdf] : https://csv2pdf.online/
+    One-Click Conversion Made Easy - CSV2PDF.Online Simplifies Data Sharing.In today's data-driven world, CSV files are an essential part of our daily work. But when it comes to sharing these data with colleagues, clients, or supervisors, PDF format is often more professional and convenient. That's where CSV2PDF.Online comes in!
+  - [YesNoOracle] : https://yesnooracle.online/
+    Can't Decide? Let YesNoOracle.online Choose for You! YesNoOracle.online is a simple yet fun online decision-making tool that gives you an instant "Yes" or "No" answer with just one click!
 
 - **Former Developer**  
   Once wrote code that probably worked 80% of the time. The other 20%? Let's call it "creative debugging."  
